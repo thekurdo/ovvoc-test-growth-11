@@ -1,0 +1,11 @@
+{
+  "name": "ovvoc-test-growth-11",
+  "version": "1.0.0",
+  "description": "Math utilities with Jest 28 tests",
+  "scripts": {
+    "test": "node test/jest-config.test.js"
+  },
+  "devDependencies": {
+    "jest": "28.1.3"
+  }
+}
